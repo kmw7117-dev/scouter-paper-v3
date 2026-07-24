@@ -2,6 +2,8 @@
 
 Scouter APM을 위한 커스텀 대시보드 (React + TypeScript + ECharts)
 
+🔗 [datagrid.co.kr](https://datagrid.co.kr) · [datagraphy.io.kr](https://datagraphy.io.kr)
+
 ## Features
 - 실시간 JVM Heap / GC 모니터링
 - XLog(Profile) 트랜잭션 추적, 드래그 다중 선택
