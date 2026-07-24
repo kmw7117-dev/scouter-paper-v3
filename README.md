@@ -32,6 +32,11 @@ npm run dev
 - 프론트엔드와 Scouter 서버가 다른 호스트/포트에 있다면 Scouter 서버 측 CORS 설정을 확인하세요.
 - 기본 `npm run dev`는 localhost에서만 접속 가능합니다. 다른 기기에서 접속하려면 `npm run dev -- --host`로 실행하세요.
 
+
+### Tested versions
+- Scouter Server 2.20.0
+- Scouter WebApp (HTTP API) 2.10.2
+- Java Agent 2.20.0 ~ 2.21.3
 ## Screenshots
 
 ![Dashboard](docs/screenshot-dashboard.png)
