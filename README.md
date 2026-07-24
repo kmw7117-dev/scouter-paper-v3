@@ -20,3 +20,12 @@ npm run dev
 ## Requirements
 - Node.js 18+
 - Scouter Server (Collector) with HTTP API enabled
+
+## Screenshots
+
+![Dashboard](docs/screenshot-dashboard.png)
+![Topology](docs/screenshot-topology.png)
+
+## License
+
+MIT
