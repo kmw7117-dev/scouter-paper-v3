@@ -4,6 +4,8 @@ Scouter APM을 위한 커스텀 대시보드 (React + TypeScript + ECharts)
 
 🔗 [datagrid.co.kr](https://datagrid.co.kr) · [datagraphy.io.kr](https://datagraphy.io.kr)
 
+> 이 프로젝트는 [Scouter](https://github.com/scouter-project/scouter) (Apache 2.0)의 HTTP Web API를 사용하는 별개의 커뮤니티 대시보드이며, 공식 Scouter 프로젝트와는 무관합니다.
+
 ## Features
 - 실시간 JVM Heap / GC 모니터링
 - XLog(Profile) 트랜잭션 추적, 드래그 다중 선택
