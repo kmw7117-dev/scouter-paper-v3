@@ -32,6 +32,10 @@ npm run dev
 ![Dashboard](docs/screenshot-dashboard.png)
 ![Topology](docs/screenshot-topology.png)
 
+## Feedback
+
+버그 제보나 기능 요청은 [Issues](https://github.com/kmw7117-dev/scouter-paper-v3/issues)에 남겨주세요.
+
 ## License
 
 MIT
