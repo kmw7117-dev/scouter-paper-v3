@@ -1,3 +1,5 @@
+[한국어](README.md) | [English](README.en.md)
+
 # Scouter Paper v3
 
 Scouter APM을 위한 커스텀 대시보드 (React + TypeScript + ECharts)
