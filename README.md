@@ -26,6 +26,9 @@ npm run dev
 ## Requirements
 - Node.js 18+
 - Scouter Server (Collector) with HTTP API enabled
+- Scouter Server의 HTTP Web API가 활성화되어 있어야 하며, `.env`의 `VITE_SCOUTER_SERVER_URL`이 실제 응답하는 Scouter 서버를 가리켜야 데이터가 표시됩니다.
+- 프론트엔드와 Scouter 서버가 다른 호스트/포트에 있다면 Scouter 서버 측 CORS 설정을 확인하세요.
+- 기본 `npm run dev`는 localhost에서만 접속 가능합니다. 다른 기기에서 접속하려면 `npm run dev -- --host`로 실행하세요.
 
 ## Screenshots
 
